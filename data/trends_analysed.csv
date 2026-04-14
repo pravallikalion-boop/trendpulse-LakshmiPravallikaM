@@ -1,74 +1,71 @@
 post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
-47763759,What is jj and why should I care?,general,271,169,tigerlily,2026-04-14 20:24:37,0.6213235294117647,True
-47765604,Rare concert records going on Internet Archive,general,44,12,jrm-veris,2026-04-14 20:24:38,0.26666666666666666,False
-47766144,Schools Never Taught Critical Thinking: AI Exposed the Lie,technology,16,13,dxs,2026-04-14 20:24:39,0.7647058823529411,False
-47760529,DaVinci Resolve – Photo,general,817,219,thebiblelover7,2026-04-14 20:24:40,0.26772616136919314,True
-47760764,A new spam policy for “back button hijacking”,general,584,337,zdw,2026-04-14 20:24:41,0.576068376068376,True
-47764098,"NimConf 2026: Dates Announced, Registrations Open",general,66,13,moigagoo,2026-04-14 20:24:42,0.19402985074626866,False
-47755629,Someone bought 30 WordPress plugins and planted a backdoor in all of them,general,1071,302,speckx,2026-04-14 20:24:43,0.28171641791044777,True
-47762864,Backblaze has stopped backing up your data,technology,481,308,rrreese,2026-04-14 20:24:44,0.6390041493775933,True
-47764164,The Case Against Gameplay Loops,technology,36,26,coinfused,2026-04-14 20:24:45,0.7027027027027027,False
-47757495,GitHub Stacked PRs,general,808,440,ezekg,2026-04-14 20:24:46,0.5438813349814586,True
-47762641,Introspective Diffusion Language Models,general,136,31,zagwdt,2026-04-14 20:24:46,0.22627737226277372,False
-47717192,The acyclic e-graph: Cranelift's mid-end optimizer,general,24,3,tekknolagi,2026-04-14 20:24:47,0.12,False
-47704729,The M×N problem of tool calling and open-source models,general,53,16,remilouf,2026-04-14 20:24:48,0.2962962962962963,False
-47762994,Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It,worldnews,62,52,adulion,2026-04-14 20:24:49,0.8253968253968254,False
-47722629,Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict,general,73,35,rfarley04,2026-04-14 20:24:50,0.47297297297297297,False
-47761997,Distributed DuckDB Instance,general,112,24,citguru,2026-04-14 20:24:51,0.21238938053097345,False
-47759709,Lean proved this program correct; then I found a bug,general,316,146,bumbledraven,2026-04-14 20:24:52,0.4605678233438486,True
-47764265,The exponential curve behind open source backlogs,general,26,14,armanckeser,2026-04-14 20:24:53,0.5185185185185185,False
-47714770,Show HN: Run GUIs as Scripts,entertainment,7,1,zero-st4rs,2026-04-14 20:24:54,0.125,False
-47761625,Multi-Agentic Software Development Is a Distributed Systems Problem,technology,75,32,tie-in,2026-04-14 20:24:55,0.42105263157894735,False
-47759341,WiiFin – Jellyfin Client for Nintendo Wii,general,206,92,throwawayk7h,2026-04-14 20:24:57,0.4444444444444444,True
-47724408,The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain,technology,13,1,apollinaire,2026-04-14 20:24:58,0.07142857142857142,False
-47753472,Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets,sports,454,248,m-hodges,2026-04-14 20:24:59,0.545054945054945,True
-47711148,A soft robot has no problem moving with no motor and no gears,general,57,16,hhs,2026-04-14 20:24:59,0.27586206896551724,False
-47761723,MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres,technology,50,7,adunk,2026-04-14 20:25:02,0.13725490196078433,False
-47751781,US appeals court declares 158-year-old home distilling ban unconstitutional,general,425,299,t-3,2026-04-14 20:25:03,0.7018779342723005,True
-47705390,Lumina – a statically typed web-native language for JavaScript and WASM,general,37,16,light_ideas,2026-04-14 20:25:03,0.42105263157894735,False
-47728970,"Write less code, be more responsible",technology,133,78,orhunp_,2026-04-14 20:25:04,0.582089552238806,False
-47718284,Design and implementation of DuckDB internals,general,157,11,mpweiher,2026-04-14 20:25:05,0.06962025316455696,False
-47752819,Make tmux pretty and usable (2024),general,410,252,speckx,2026-04-14 20:25:06,0.6131386861313869,True
-47766071,I Found It: The Best Free Restaurant Bread in America,general,5,0,jbegley,2026-04-14 20:25:07,0.0,False
-47756321,How to make Firefox builds 17% faster,general,193,35,mbitsnbites,2026-04-14 20:25:08,0.18041237113402062,False
-47708457,Rust Threads on the GPU,technology,99,29,PaulHoule,2026-04-14 20:25:10,0.29,False
-47729350,I just want simple S3,general,203,107,g0xA52A2A,2026-04-14 20:25:11,0.5245098039215687,False
-47758347,N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?,technology,86,27,mufeedvh,2026-04-14 20:25:11,0.3103448275862069,False
-47753689,Building a CLI for all of Cloudflare,technology,320,104,soheilpro,2026-04-14 20:25:12,0.32398753894080995,True
-47762060,The secrets of the Shinkansen,general,134,127,WillDaSilva,2026-04-14 20:25:13,0.9407407407407408,False
-47729046,Air Powered Segment Display? [video],technology,121,11,ProfDreamer,2026-04-14 20:25:15,0.09016393442622951,False
-47756772,GAIA – Open-source framework for building AI agents that run on local hardware,technology,135,32,galaxyLogic,2026-04-14 20:25:19,0.23529411764705882,False
-47756569,"Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",entertainment,159,42,cvrajeesh,2026-04-14 20:25:23,0.2625,False
-47764975,Man suspected of Molotov attack Sam Altmans home charged with attempted murder,worldnews,6,0,Bender,2026-04-14 20:25:26,0.0,False
-47750872,Servo is now available on crates.io,technology,460,147,ffin,2026-04-14 20:25:30,0.3188720173535792,True
-47755209,B-trees and database indexes (2024),technology,110,41,tosh,2026-04-14 20:25:30,0.36936936936936937,False
-47759292,The AI revolution in math has arrived,technology,92,48,sonabinu,2026-04-14 20:25:33,0.5161290322580645,False
-47751621,Initial mainline video capture and camera support for Rockchip RK3588,technology,87,25,mfilion,2026-04-14 20:25:35,0.2840909090909091,False
-47752466,MEMS Array Chip Can Project Video the Size of a Grain of Sand,technology,86,43,bookofjoe,2026-04-14 20:25:36,0.4942528735632184,False
-47744255,I ran Gemma 4 as a local model in Codex CLI,technology,266,109,dvaughan,2026-04-14 20:25:43,0.40823970037453183,True
-47733217,Exploiting the most prominent AI agent benchmarks,technology,579,140,Anon84,2026-04-14 20:25:44,0.2413793103448276,True
-47762851,Show HN: A stateful UI runtime for reactive web apps in Go,entertainment,7,3,derstruct,2026-04-14 20:25:46,0.375,False
-47761825,Roblox devs now need a subscription to share their games freely,sports,61,66,hallole,2026-04-14 20:25:50,1.064516129032258,False
-47761371,Bear Roll – Daily roll of Bear Blog's top posts,technology,7,0,freediver,2026-04-14 20:25:53,0.0,False
-47763185,An open letter to the UK Government on digital privacy,worldnews,12,4,vsajip,2026-04-14 20:25:55,0.3076923076923077,False
-47754179,Claude Code may be burning your limits with invisible tokens,technology,46,6,jenic_,2026-04-14 20:25:56,0.1276595744680851,False
-47750821,Michigan 'digital age' bills pulled after privacy concerns raised,technology,217,126,iamnothere,2026-04-14 20:25:57,0.5779816513761468,True
-47766164,90% of CEOs Say AI Changed Nothing. The Other 10% Have a PR Team,technology,15,1,mooreds,2026-04-14 20:26:00,0.0625,False
-47748064,The economics of software teams: Why most engineering orgs are flying blind,technology,403,277,kiyanwang,2026-04-14 20:26:01,0.6856435643564357,True
-47761892,"Show HN: Pushduck – S3 uploads that run on Cloudflare Workers, no AWS SDK",technology,8,4,abhay_ramesh,2026-04-14 20:26:04,0.4444444444444444,False
-47761442,Show HN: Deflect One – command line dashboard for managing Linux servers via SSH,entertainment,5,4,whitemanv,2026-04-14 20:26:10,0.6666666666666666,False
-47742200,Show HN: boringBar – a taskbar-style dock replacement for macOS,entertainment,510,292,a-ve,2026-04-14 20:26:13,0.5714285714285714,True
-47760360,An Amazon warehouse worker died on the job at Oregon facility,worldnews,11,1,cebert,2026-04-14 20:26:19,0.08333333333333333,False
-47741460,How long-distance couples use digital games to facilitate intimacy (2025),sports,129,38,radeeyate,2026-04-14 20:26:20,0.2923076923076923,False
-47724352,Filing the corners off my MacBooks,entertainment,1398,671,normanvalentine,2026-04-14 20:26:23,0.47962830593280914,True
-47757552,Show HN: Continual Learning with .md,entertainment,30,26,wenhan_zhou,2026-04-14 20:26:25,0.8387096774193549,False
-47741393,Textbooks and Methods of Note-Taking in Early Modern Europe (2008),entertainment,53,0,mooreds,2026-04-14 20:26:36,0.0,False
-47738343,The Physics of GPS,science,161,35,maouida,2026-04-14 20:26:44,0.21604938271604937,False
-47739174,Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card),entertainment,240,106,Rochus,2026-04-14 20:26:47,0.43983402489626555,True
-47698455,Starfling: A one-tap endless orbital slingshot game in a single HTML file,sports,625,152,iceberger2001,2026-04-14 20:27:01,0.24281150159744408,True
-47758453,Your Favorite Movies Were CIA Propaganda [video],entertainment,33,3,joe_mamba,2026-04-14 20:27:03,0.08823529411764706,False
-47762272,"Linux 7.0 Released with New Hardware Support, Optimizations and Self-Healing XFS",worldnews,21,0,isaacfrond,2026-04-14 20:27:18,0.0,False
-47722333,"Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",worldnews,438,276,neversaydie,2026-04-14 20:27:19,0.6287015945330297,True
-47698111,Bevy game development tutorials and in-depth resources,sports,139,70,GenericCanadian,2026-04-14 20:27:26,0.5,False
-47713495,Team from ETH Zurich make high quality quantum swap gate using a geometric phase,sports,237,56,joko42,2026-04-14 20:27:28,0.23529411764705882,True
-47749295,Show HN: Equirect – a Rust VR video player,sports,13,1,greggman65,2026-04-14 20:27:45,0.07142857142857142,False
+47766960,AI Will Never Be Ethical or Safe,technology,28,4,caisah,2026-04-14 21:22:41,0.13793103448275862,False
+47765604,Rare concert recordings are landing on the Internet Archive,general,113,47,jrm-veris,2026-04-14 21:22:42,0.41228070175438597,False
+47763759,jj – the CLI for Jujutsu,general,324,255,tigerlily,2026-04-14 21:22:43,0.7846153846153846,True
+47760529,DaVinci Resolve – Photo,general,857,222,thebiblelover7,2026-04-14 21:22:43,0.25874125874125875,True
+47760764,A new spam policy for “back button hijacking”,general,620,367,zdw,2026-04-14 21:22:44,0.5909822866344605,True
+47764098,"NimConf 2026: Dates Announced, Registrations Open",general,74,14,moigagoo,2026-04-14 21:22:45,0.18666666666666668,False
+47765374,Show HN: Kontext CLI – Credential broker for AI coding agents in Go,technology,11,0,mc-serious,2026-04-14 21:22:46,0.0,False
+47762864,Backblaze has stopped backing up your data,technology,564,346,rrreese,2026-04-14 21:22:46,0.6123893805309735,True
+47766550,"The Future of Everything Is Lies, I Guess: Work",general,41,20,aphyr,2026-04-14 21:22:47,0.47619047619047616,False
+47717192,The acyclic e-graph: Cranelift's mid-end optimizer,general,32,9,tekknolagi,2026-04-14 21:22:48,0.2727272727272727,False
+47716840,Nucleus Nouns,general,9,2,bewal416,2026-04-14 21:22:49,0.2,False
+47762641,Introspective Diffusion Language Models,general,144,34,zagwdt,2026-04-14 21:22:50,0.23448275862068965,False
+47722629,Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict,general,84,44,rfarley04,2026-04-14 21:22:50,0.5176470588235295,False
+47704729,The M×N problem of tool calling and open-source models,general,65,19,remilouf,2026-04-14 21:22:51,0.2878787878787879,False
+47762994,Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It,worldnews,75,65,adulion,2026-04-14 21:22:52,0.8552631578947368,False
+47761997,Distributed DuckDB Instance,general,115,27,citguru,2026-04-14 21:22:53,0.23275862068965517,False
+47759709,Lean proved this program correct; then I found a bug,general,327,154,bumbledraven,2026-04-14 21:22:53,0.4695121951219512,True
+47764265,The exponential curve behind open source backlogs,general,36,24,armanckeser,2026-04-14 21:22:54,0.6486486486486487,False
+47761625,Multi-Agentic Software Development Is a Distributed Systems Problem,technology,83,38,tie-in,2026-04-14 21:22:55,0.4523809523809524,False
+47714770,Show HN: Run GUIs as Scripts,entertainment,9,2,zero-st4rs,2026-04-14 21:22:56,0.2,False
+47755629,Someone bought 30 WordPress plugins and planted a backdoor in all of them,general,1086,306,speckx,2026-04-14 21:22:57,0.281508739650414,True
+47759341,WiiFin – Jellyfin Client for Nintendo Wii,general,210,97,throwawayk7h,2026-04-14 21:22:57,0.4597156398104265,True
+47761723,MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres,technology,58,8,adunk,2026-04-14 21:22:58,0.13559322033898305,False
+47711148,A soft robot has no problem moving with no motor and no gears,general,63,17,hhs,2026-04-14 21:22:59,0.265625,False
+47705390,Lumina – a statically typed web-native language for JavaScript and WASM,general,43,17,light_ideas,2026-04-14 21:23:00,0.38636363636363635,False
+47757495,GitHub Stacked PRs,general,827,455,ezekg,2026-04-14 21:23:01,0.5495169082125604,True
+47724408,The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain,technology,15,1,apollinaire,2026-04-14 21:23:02,0.0625,False
+47728970,"Write less code, be more responsible",technology,140,86,orhunp_,2026-04-14 21:23:03,0.6099290780141844,False
+47718284,Design and implementation of DuckDB internals,general,162,11,mpweiher,2026-04-14 21:23:04,0.06748466257668712,False
+47752819,Make tmux pretty and usable (2024),general,418,254,speckx,2026-04-14 21:23:04,0.6062052505966588,True
+47767191,"Google, Microsoft, Meta All Tracking You Even When You Opt Out",general,5,0,Cider9986,2026-04-14 21:23:05,0.0,False
+47756321,How to make Firefox builds 17% faster,general,195,36,mbitsnbites,2026-04-14 21:23:06,0.1836734693877551,False
+47708457,Rust Threads on the GPU,technology,101,31,PaulHoule,2026-04-14 21:23:07,0.30392156862745096,False
+47753689,Building a CLI for all of Cloudflare,technology,321,104,soheilpro,2026-04-14 21:23:07,0.32298136645962733,True
+47729350,I just want simple S3,general,205,109,g0xA52A2A,2026-04-14 21:23:08,0.529126213592233,True
+47766330,To teach in the era of ChatGPT is to know pain,technology,6,1,ckemere,2026-04-14 21:23:09,0.14285714285714285,False
+47758347,N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?,technology,86,28,mufeedvh,2026-04-14 21:23:11,0.3218390804597701,False
+47729046,Air Powered Segment Display? [video],technology,123,11,ProfDreamer,2026-04-14 21:23:13,0.08870967741935484,False
+47764164,The Case Against Gameplay Loops,technology,44,45,coinfused,2026-04-14 21:23:17,1.0,False
+47756772,GAIA – Open-source framework for building AI agents that run on local hardware,technology,137,33,galaxyLogic,2026-04-14 21:23:17,0.2391304347826087,False
+47753472,Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets,sports,457,251,m-hodges,2026-04-14 21:23:19,0.5480349344978166,True
+47756569,"Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",entertainment,159,42,cvrajeesh,2026-04-14 21:23:24,0.2625,False
+47759292,The AI revolution in math has arrived,technology,96,49,sonabinu,2026-04-14 21:23:25,0.5051546391752577,False
+47766164,90% of CEOs Say AI Changed Nothing. The Other 10% Have a PR Team,technology,28,12,mooreds,2026-04-14 21:23:27,0.41379310344827586,False
+47750872,Servo is now available on crates.io,technology,460,147,ffin,2026-04-14 21:23:28,0.3188720173535792,True
+47755209,B-trees and database indexes (2024),technology,111,41,tosh,2026-04-14 21:23:29,0.36607142857142855,False
+47764975,Man suspected of Molotov attack Sam Altmans home charged with attempted murder,worldnews,8,1,Bender,2026-04-14 21:23:30,0.1111111111111111,False
+47751621,Initial mainline video capture and camera support for Rockchip RK3588,technology,87,26,mfilion,2026-04-14 21:23:32,0.29545454545454547,False
+47752466,MEMS Array Chip Can Project Video the Size of a Grain of Sand,technology,87,43,bookofjoe,2026-04-14 21:23:33,0.48863636363636365,False
+47744255,I ran Gemma 4 as a local model in Codex CLI,technology,267,109,dvaughan,2026-04-14 21:23:38,0.40671641791044777,True
+47733217,Exploiting the most prominent AI agent benchmarks,technology,580,140,Anon84,2026-04-14 21:23:39,0.24096385542168675,True
+47766611,The AI School Bus Camera Company Blanketing America in Tickets,technology,28,43,jimt1234,2026-04-14 21:23:41,1.4827586206896552,False
+47762851,Show HN: A stateful UI runtime for reactive web apps in Go,entertainment,7,4,derstruct,2026-04-14 21:23:48,0.5,False
+47761371,Bear Roll – Daily roll of Bear Blog's top posts,technology,8,2,freediver,2026-04-14 21:23:48,0.2222222222222222,False
+47761825,Roblox devs now need a subscription to share their games freely,sports,61,67,hallole,2026-04-14 21:23:51,1.0806451612903225,False
+47763185,An open letter to the UK Government on digital privacy,worldnews,13,4,vsajip,2026-04-14 21:23:53,0.2857142857142857,False
+47742200,Show HN: boringBar – a taskbar-style dock replacement for macOS,entertainment,510,292,a-ve,2026-04-14 21:24:03,0.5714285714285714,True
+47761442,Show HN: Deflect One – command line dashboard for managing Linux servers via SSH,entertainment,5,4,whitemanv,2026-04-14 21:24:08,0.6666666666666666,False
+47741460,How long-distance couples use digital games to facilitate intimacy (2025),sports,129,38,radeeyate,2026-04-14 21:24:09,0.2923076923076923,False
+47724352,Filing the corners off my MacBooks,entertainment,1398,672,normanvalentine,2026-04-14 21:24:10,0.48034310221586846,True
+47760360,An Amazon warehouse worker died on the job at Oregon facility,worldnews,12,1,cebert,2026-04-14 21:24:11,0.07692307692307693,False
+47757552,Show HN: Continual Learning with .md,entertainment,30,27,wenhan_zhou,2026-04-14 21:24:14,0.8709677419354839,False
+47741393,Textbooks and Methods of Note-Taking in Early Modern Europe (2008),entertainment,53,0,mooreds,2026-04-14 21:24:22,0.0,False
+47738343,The Physics of GPS,science,161,35,maouida,2026-04-14 21:24:28,0.21604938271604937,False
+47739174,Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card),entertainment,240,107,Rochus,2026-04-14 21:24:29,0.44398340248962653,True
+47698455,Starfling: A one-tap endless orbital slingshot game in a single HTML file,sports,625,152,iceberger2001,2026-04-14 21:24:44,0.24281150159744408,True
+47758453,Your Favorite Movies Were CIA Propaganda [video],entertainment,34,4,joe_mamba,2026-04-14 21:24:51,0.11428571428571428,False
+47722333,"Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",worldnews,438,276,neversaydie,2026-04-14 21:24:58,0.6287015945330297,True
+47698111,Bevy game development tutorials and in-depth resources,sports,139,71,GenericCanadian,2026-04-14 21:25:01,0.5071428571428571,False
+47713495,Team from ETH Zurich make high quality quantum swap gate using a geometric phase,sports,237,56,joko42,2026-04-14 21:25:03,0.23529411764705882,True
